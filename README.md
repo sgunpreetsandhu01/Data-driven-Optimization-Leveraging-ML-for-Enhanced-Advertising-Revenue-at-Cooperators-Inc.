@@ -1,5 +1,5 @@
 # Data-driven-Optimization-Leveraging-ML-for-Enhanced-Advertising-Revenue-at-Cooperators-Inc.
-TECHNOLOGIES: Python, Sci-kit Learn, Data Manipulation, Data Visualization, Data Modelling, Machine Learning
+TECHNOLOGIES: Python, Sci-kit Learn, Data Manipulation, Data Visualization, Data Modelling and Machine Learning
 TECHNICAL DETAILS:
 •	Engaged in hands-on exploration of a real-world dataset sourced from Cooperators Inc., applying advanced data manipulation techniques to ensure data integrity and completeness.
 •	Executed comprehensive data cleaning, manipulation, and visualization procedures, leveraging Python's powerful libraries to extract meaningful insights and patterns from the dataset through exploratory data analysis (EDA).
